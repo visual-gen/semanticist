@@ -2,8 +2,7 @@
 ### (ICCV 2025) A New Paradigm for Compact and Interpretable Image Representations
 <a href="https://arxiv.org/abs/2503.08685">[Read the Paper]</a> &nbsp; | &nbsp;
 <a href="https://visual-gen.github.io/semanticist/">[Project Page]</a> &nbsp; | &nbsp;
-<a href="https://huggingface.co/spaces/tennant/semanticist_tokenizer">[Huggingface Tokenizer Demo]</a> &nbsp; | &nbsp;
-<a href="https://huggingface.co/spaces/tennant/Semanticist_AR">[Huggingface Generation Demo]</a>
+<a href="https://huggingface.co/tennant/semanticist/tree/main">[Model Checkpoints]</a>
 
 [Xin Wen](https://wen-xin.info/)<sup>1*</sup>, 
 [Bingchen Zhao](https://bzhao.me/)<sup>2*</sup>, 
